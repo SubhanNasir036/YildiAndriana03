@@ -30,12 +30,13 @@ PENGGUNA | BERMAIN | MENDAPATKAN POIN| ⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
-
-```mermaid
+---
+title: Order example
+---
 erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
-```
+    PEMAIN ||--o{ LODIN: places
+    PUKUL TIKUS||--|{ POIN : contains
+    PEMAIN }|..|{ MENANG : uses
 
 ## 4. Arsitektur Sistem
 
