@@ -48,7 +48,7 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
+https://www.canva.com/design/DAFzNfku64c/ec6P6_srNvggSuupL_xgJw/watch?utm_content=DAFzNfku64c&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## 7. Demonstrasi Video
 
