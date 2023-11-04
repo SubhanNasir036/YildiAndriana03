@@ -48,7 +48,7 @@ bla bla bla
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
-https://www.canva.com/design/DAFzNfku64c/En3CwiHMOaWeX8aqOpvSXg/edit?utm_content=DAFzNfku64c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 7. Demonstrasi Video
 
 Link youtube nya
