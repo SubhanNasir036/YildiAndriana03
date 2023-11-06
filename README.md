@@ -37,14 +37,16 @@ erDiagram
     PEMAIN ||--o{ LODIN: places
     PUKUL TIKUS||--|{ POIN : contains
     PEMAIN }|..|{ MENANG : uses
-
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
 
 ## 5. Teknologi, Library, dan Framework
-
-bla bla bla
+Teknologi dalam pembuatan Game ini say menggunakan laptop
+Library dari program say adalah :
+1. React
+2. 2. Bootstrap
+3. Dev. comunity
 
 ## 6. Desain User Experience dan User Interface
 
