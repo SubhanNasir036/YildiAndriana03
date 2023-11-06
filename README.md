@@ -31,9 +31,7 @@ PENGGUNA | BERMAIN PUKUL TIKUS | MENDAPATKAN POIN| ⭐⭐⭐⭐⭐
     USER ||--o{ DAPAT POIN 
     PUKUL TIKUS ||--o{ DAPAT POIN 
 ## 4. Arsitektur Sistem
-
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
-
+   A -- MULAI --> B -- PUKUL TIKUS --> C --10 MENIT --> D --POIN
 ## 5. Teknologi, Library, dan Framework
 Teknologi dalam pembuatan Game ini say menggunakan laptop
 Library dari program say adalah :
