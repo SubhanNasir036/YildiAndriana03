@@ -47,7 +47,7 @@ Library dari program say adalah :
 1. React
 2. Bootstrap
 3. Dev. comunity
-
+ Untuk Framework nya saya menggunakann Html, JavaScript, dan Css
 ## 6. Desain User Experience dan User Interface
 
 Bisa load image 
