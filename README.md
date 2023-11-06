@@ -25,7 +25,7 @@ campaign : Mari bermain Game pukul tikus tanah dimanapun dan kapan pun tanapa re
 
 SEBAGAI | SAYA INGIN| SEHINGGA SAYA |
 ---|--- |---|---
-PENGGUNA | BERMAIN | MENDAPATKAN POIN| ⭐⭐⭐⭐⭐
+PENGGUNA | BERMAIN PUKUL TIKUS | MENDAPATKAN POIN| ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
