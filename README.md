@@ -45,7 +45,7 @@ Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/synta
 Teknologi dalam pembuatan Game ini say menggunakan laptop
 Library dari program say adalah :
 1. React
-2. 2. Bootstrap
+2. Bootstrap
 3. Dev. comunity
 
 ## 6. Desain User Experience dan User Interface
