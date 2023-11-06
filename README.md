@@ -28,15 +28,8 @@ SEBAGAI | SAYA INGIN| SEHINGGA SAYA |
 PENGGUNA | BERMAIN PUKUL TIKUS | MENDAPATKAN POIN| ⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
-
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
----
-title: Order example
----
-erDiagram
-    PEMAIN ||--o{ LODIN: places
-    PUKUL TIKUS||--|{ POIN : contains
-    PEMAIN }|..|{ MENANG : uses
+    USER ||--o{ DAPAT POIN 
+    PUKUL TIKUS ||--o{ DAPAT POIN 
 ## 4. Arsitektur Sistem
 
 Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
