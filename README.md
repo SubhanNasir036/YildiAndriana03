@@ -17,9 +17,12 @@ sehingga Game ini berguna untuk melatih kesabaran ,serta berfikir cepat.
 
 ## 1.3. Branding
 
-Merk : Game Pukul Tikus Tanah
-Tagline : Bermain game yang seru dan menanrik untuk di coba
-campaign : Mari bermain Game pukul tikus tanah dimanapun dan kapan pun tanapa repot pergi ke Mall wahana Permainan.
+Merk :
+Game Pukul Tikus Tanah
+Tagline :
+Bermain game yang seru dan menanrik untuk di coba
+campaign :
+Mari bermain Game pukul tikus tanah dimanapun dan kapan pun tanapa repot pergi ke Mall wahana Permainan.
 
 ## 2. User Story
 
