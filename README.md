@@ -49,7 +49,8 @@ Bisa load image
 https://www.canva.com/design/DAFzNfku64c/ec6P6_srNvggSuupL_xgJw/view?utm_content=DAFzNfku64c&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ## 7. Demonstrasi Video
 
-Link youtube nya
+https://youtu.be/nqAXCRaz80g?si=GTHOzXxwlf25wrGN
+
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
